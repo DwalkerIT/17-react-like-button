@@ -13,6 +13,19 @@
   }
 }
 
+.primaryBtn {
+  background-color: rgb(51, 182, 223);
+  color: white;
+  padding: 15px 30px;
+  border-radius: 10px;
+  border: none;
+  font-size: 35px;
+}
+
+.primaryBtn:focus {
+  outline: none;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
